@@ -1,8 +1,8 @@
 ## Funcionalidades
 
 ## Conexões
-    [] Rota para listar o total de conexões realizadas
-    [] Rota para criar uma nova conexão
+    [ok] Rota para listar o total de conexões realizadas
+    [ok] Rota para criar uma nova conexão
 
 ## Aulas
     [ok] Rota para criar uma aula;
